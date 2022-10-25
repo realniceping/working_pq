@@ -1,0 +1,15 @@
+D:\I_FEEL_POWER\fuck\obj\Debug\net6.0\fuck.csproj.AssemblyReference.cache
+D:\I_FEEL_POWER\fuck\obj\Debug\net6.0\fuck.GeneratedMSBuildEditorConfig.editorconfig
+D:\I_FEEL_POWER\fuck\obj\Debug\net6.0\fuck.AssemblyInfoInputs.cache
+D:\I_FEEL_POWER\fuck\obj\Debug\net6.0\fuck.AssemblyInfo.cs
+D:\I_FEEL_POWER\fuck\obj\Debug\net6.0\fuck.csproj.CoreCompileInputs.cache
+D:\I_FEEL_POWER\fuck\bin\Debug\net6.0\fuck.exe
+D:\I_FEEL_POWER\fuck\bin\Debug\net6.0\fuck.deps.json
+D:\I_FEEL_POWER\fuck\bin\Debug\net6.0\fuck.runtimeconfig.json
+D:\I_FEEL_POWER\fuck\bin\Debug\net6.0\fuck.dll
+D:\I_FEEL_POWER\fuck\bin\Debug\net6.0\fuck.pdb
+D:\I_FEEL_POWER\fuck\obj\Debug\net6.0\fuck.dll
+D:\I_FEEL_POWER\fuck\obj\Debug\net6.0\refint\fuck.dll
+D:\I_FEEL_POWER\fuck\obj\Debug\net6.0\fuck.pdb
+D:\I_FEEL_POWER\fuck\obj\Debug\net6.0\fuck.genruntimeconfig.cache
+D:\I_FEEL_POWER\fuck\obj\Debug\net6.0\ref\fuck.dll
