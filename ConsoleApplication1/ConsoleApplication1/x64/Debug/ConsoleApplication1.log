@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\cplusplus\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(52): warning C4715: 'pop_el': not all control paths return a value
+     Creating library D:\cplusplus\ConsoleApplication1\x64\Debug\ConsoleApplication1.lib and object D:\cplusplus\ConsoleApplication1\x64\Debug\ConsoleApplication1.exp
+  ConsoleApplication1.vcxproj -> D:\cplusplus\ConsoleApplication1\x64\Debug\ConsoleApplication1.dll
